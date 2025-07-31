@@ -15,7 +15,6 @@ This repository contains my submission for **Research Task 05: Descriptive Stati
 | `prompt_log.txt`                              | Log of LLM prompts and responses                                           |
 | `qa_results.xlsx`                             | Manual evaluation comparing LLM answers with Python-generated answers      |
 | `questions.txt`                               | 10 natural language questions used to prompt the LLM                       |
-| `Research_Task_05.docx`                       | Task instructions from the professor                                       |
 | `summary_without_grouping_Premier_League.xls` | Descriptive statistics summary (first 10 rows of dataset, no grouping)     |
 
 ---
