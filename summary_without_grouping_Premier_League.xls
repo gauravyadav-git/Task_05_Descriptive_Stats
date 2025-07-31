@@ -1,0 +1,40 @@
+column,count,unique,mean,min,max,std_dev,most_freq,group
+date,10,1,NA,NA,NA,NA,28th May 2023 (10),full_dataset
+clock,10,1,NA,NA,NA,NA,4:30pm (10),full_dataset
+stadium,10,10,NA,NA,NA,NA,Elland Road (1),full_dataset
+attendance,10,10,NA,NA,NA,NA,"17,120 (1)",full_dataset
+Home Team,10,10,NA,NA,NA,NA,Arsenal (1),full_dataset
+Goals Home,10,4,2.0,1,5,1.4142,NA,full_dataset
+Away Team,10,10,NA,NA,NA,NA,Bournemouth (1),full_dataset
+Away Goals,10,3,1.3,0,4,1.4944,NA,full_dataset
+home_possessions,10,10,47.83,30.9,66.0,11.9548,NA,full_dataset
+away_possessions,10,10,52.17,34.0,69.1,11.9548,NA,full_dataset
+home_shots,10,8,15.5,11,22,3.837,NA,full_dataset
+away_shots,10,9,12.5,6,30,7.2303,NA,full_dataset
+home_on,10,7,5.5,2,10,2.5055,NA,full_dataset
+away_on,10,6,3.8,0,8,2.2998,NA,full_dataset
+home_off,10,6,6.0,4,9,1.6997,NA,full_dataset
+away_off,10,7,5.2,2,11,2.8983,NA,full_dataset
+home_blocked,10,7,4.0,0,10,3.0912,NA,full_dataset
+away_blocked,10,5,3.5,1,11,3.44,NA,full_dataset
+home_pass,10,10,81.51,73.1,89.0,6.2903,NA,full_dataset
+away_pass,10,10,83.61,69.9,89.8,5.9075,NA,full_dataset
+home_chances,10,5,2.0,0,4,1.3333,NA,full_dataset
+away_chances,10,5,1.7,0,5,1.6364,NA,full_dataset
+home_corners,10,8,6.1,2,12,3.414,NA,full_dataset
+away_corners,10,4,4.2,3,9,1.8135,NA,full_dataset
+home_offside,10,4,1.2,0,3,1.0328,NA,full_dataset
+away_offside,10,5,1.5,0,6,1.8409,NA,full_dataset
+home_tackles,10,9,59.13,40.0,82.4,15.3893,NA,full_dataset
+away_tackles,10,10,49.6,15.4,75.0,16.8432,NA,full_dataset
+home_duels,10,8,54.08,46.4,68.8,6.2689,NA,full_dataset
+away_duels,10,8,45.93,31.3,53.6,6.2429,NA,full_dataset
+home_saves,10,5,2.3,0,4,1.1595,NA,full_dataset
+away_saves,10,5,3.6,1,6,1.7764,NA,full_dataset
+home_fouls,10,7,9.8,4,15,3.2592,NA,full_dataset
+away_fouls,10,7,10.6,5,16,2.9136,NA,full_dataset
+home_yellow,10,4,1.4,0,4,1.6465,NA,full_dataset
+away_yellow,10,5,1.4,0,4,1.4298,NA,full_dataset
+home_red,10,1,0.0,0,0,0.0,NA,full_dataset
+away_red,10,1,0.0,0,0,0.0,NA,full_dataset
+links,10,10,NA,NA,NA,NA,https://www.skysports.com/football/arsenal-vs-wolverhampton-wanderers/465005 (1),full_dataset

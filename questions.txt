@@ -1,0 +1,24 @@
+🟢 Easy
+What is the total number of matches recorded in this dataset?
+
+What is the average number of goals scored by home teams?
+
+🟡 Moderate
+What is the standard deviation of goals scored by away teams?
+
+What is the maximum home possession recorded in the dataset?
+
+🔵 Complex
+Which match had the largest difference between home and away possession?
+
+What is the mean and standard deviation of total goals per match (home + away)?
+
+🧠 Reasoning
+Are home teams more likely to have higher possession than away teams on average?
+
+Do matches with higher home possession tend to have more home goals?
+
+🎯 Coaching Insight
+What does the data suggest about the importance of possession for home team performance?
+
+If a coach wants to improve home scoring, should they focus more on increasing possession or another factor?
