@@ -16,6 +16,7 @@ This repository contains my submission for **Research Task 05: Descriptive Stati
 | `qa_results.xlsx`                             | Manual evaluation comparing LLM answers with Python-generated answers      |
 | `questions.txt`                               | 10 natural language questions used to prompt the LLM                       |
 | `summary_without_grouping_Premier_League.xls` | Descriptive statistics summary (first 10 rows of dataset, no grouping)     |
+| `Task_05_Descriptive_stats.ipynb`             | Python scripts used (first 10 rows of dataset, no grouping)                |
 
 ---
 
